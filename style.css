@@ -12,7 +12,10 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background: url()
+    background: url(https://w.wallhaven.cc/full/kx/wallhaven-kx82d6.png);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
  }
 header h1 {
 font-size: 30px;
